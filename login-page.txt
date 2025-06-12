@@ -1,0 +1,2 @@
+login page should has user email input
+password of the user
