@@ -1,3 +1,4 @@
 login page should has user email input
 password of the user
 pasword should have special character
+company logo should present in the page
